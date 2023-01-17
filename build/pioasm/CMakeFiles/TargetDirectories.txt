@@ -1,0 +1,3 @@
+/Users/amrit/Desktop/PICO_REPOS/Blink_PicoW/build/pioasm/CMakeFiles/pioasm.dir
+/Users/amrit/Desktop/PICO_REPOS/Blink_PicoW/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/amrit/Desktop/PICO_REPOS/Blink_PicoW/build/pioasm/CMakeFiles/rebuild_cache.dir
